@@ -1,1 +1,1 @@
-This directory contains my professional and independent development projects.
+This directory contains my software development projects across web, mobile and desktop platforms.
